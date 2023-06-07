@@ -43,6 +43,7 @@ altcase :: [Char] -> [Char] -- output
 
 "HeLlO"
 ```
+![[assests/Pasted image 20230608022603.png]]
 
 > Learn to think in higher order abstractions, think about your thinking style, question the obvious and articulate the thinking process.
 
