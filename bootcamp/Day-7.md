@@ -47,10 +47,10 @@ altcase :: [Char] -> [Char] -- output
 > Learn to think in higher order abstractions, think about your thinking style, question the obvious and articulate the thinking process.
 
 For further reading:
-[Data.List](https://hackage.haskell.org/package/base-4.18.0.0/docs/Data-List.html)
-[Data.Char](https://hackage.haskell.org/package/base-4.18.0.0/docs/Data-Char.html)
-[Prelude](https://hackage.haskell.org/package/base-4.18.0.0/docs/Prelude.html)
-[Hoogle](https://hoogle.haskell.org/)
+- [Data.List](https://hackage.haskell.org/package/base-4.18.0.0/docs/Data-List.html)
+- [Data.Char](https://hackage.haskell.org/package/base-4.18.0.0/docs/Data-Char.html)
+- [Prelude](https://hackage.haskell.org/package/base-4.18.0.0/docs/Prelude.html)
+- [Hoogle](https://hoogle.haskell.org/)
 
 > Cracking Problems ≠ Solving them, you have to develop two separate mindsets, one for fast and decent code, other for professional code. **Don't drink your own Kool Aid**. You are not programming you are typing, acknowledge it and be true to yourself. 
 
@@ -181,7 +181,7 @@ Input:  $1, 3, 9, 19, 33, \dots$
 Expected output: $2x^2 + 1$
 Given a bunch of data, a program runs certain algorithms and gives you another program. 
 
-![[Pasted image 20230608022603.png]]
+![Pasted image 20230608022603.png]
 
 ![[Pasted image 20230608032513.png]]
 
