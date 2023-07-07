@@ -72,8 +72,8 @@
 - I sit down to code but I don't feel like it.
 - I don't know how much time to spend on coding everyday.
   > Have a routine
-  > 1hr each day >>>>>>>>>>>> 5hr on Sunday
-  > 1hr at 9am >>>>>>>>>>> 1hr at 9 pm
-  > 1hr at 9am in the same place >>>>>>>>>>> 1hr at 9am in a different place
+  > 1hr each day >>>> 5hr on Sunday
+  > 1hr at 9am >>>> 1hr at 9 pm
+  > 1hr at 9am in the same place >>>> 1hr at 9am in a different place
 
 
